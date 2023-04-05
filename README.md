@@ -26,6 +26,9 @@ Recruiting and retaining drivers is seen by industry watchers as a tough battle 
 
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/17064605/230015475-8b43defe-bba8-45fd-b941-063d3356e528.png">
 
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/17064605/230016665-2e7b3001-f735-40f1-a695-d7fa42b8be7f.png">
+
+
 
 **Insights:**
 1. 68% of the drivers have churned whereas 32% are still working in organization.
