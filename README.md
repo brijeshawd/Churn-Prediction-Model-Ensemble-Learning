@@ -15,5 +15,5 @@ Problem Statement:
 
 Results Achieved:
 
-Developed a predictive model to identify cab drivers who are likely to churn using different ensemble model such as Random Forest, Gradient Boosting, and XGBOOST.
-Conducted feature importance analysis and compared the performance of individual models using metrics like Precision, Recall and F1-Score to identify the best model .
+1. Developed a predictive model to identify cab drivers who are likely to churn using different ensemble model such as Random Forest, Gradient Boosting, and XGBOOST.
+2. Conducted feature importance analysis and compared the performance of individual models using metrics like Precision, Recall and F1-Score to identify the best model .
