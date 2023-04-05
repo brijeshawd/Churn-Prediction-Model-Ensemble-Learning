@@ -7,11 +7,11 @@ As the companies get bigger, the high churn could become abigger problem. To fin
 
 Problem Statement:
 
-1.Perform univariate, bivariate and multivariate analysis to understand what factors are affecting in churning.
-2.Build a Bagging/Boosting model which can classify whether driver will churn or stay.
-3.Check model performance using below metric: ROC AUC,Precision,Recall,F1 Score
-4.Find the features which are important in classifying the churning.
-5.Provide actionable insights and recommendations which organization can follow during recruitment of drivers.
+1. Perform univariate, bivariate and multivariate analysis to understand what factors are affecting in churning.
+2. Build a Bagging/Boosting model which can classify whether driver will churn or stay.
+3. Check model performance using below metric: ROC AUC,Precision,Recall,F1 Score
+4. Find the features which are important in classifying the churning.
+5. Provide actionable insights and recommendations which organization can follow during recruitment of drivers.
 
 Results Achieved:
 
