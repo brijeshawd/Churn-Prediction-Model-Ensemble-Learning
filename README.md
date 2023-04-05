@@ -22,7 +22,8 @@ Recruiting and retaining drivers is seen by industry watchers as a tough battle 
 
 
 **Evaluation of Model:**
-Confusion Matrix:
+
+
 <img width="547" alt="image" src="https://user-images.githubusercontent.com/17064605/230015475-8b43defe-bba8-45fd-b941-063d3356e528.png">
 
 
