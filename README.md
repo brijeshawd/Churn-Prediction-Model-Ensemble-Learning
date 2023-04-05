@@ -2,8 +2,7 @@ Churn Prediction Model for Cab Drivers:
 
 Overview:
 
-Recruiting and retaining drivers is seen by industry watchers as a tough battle for multiple cab organizations. Churn among drivers is high and it’s very easy for driversto stop working for the service on the fly or jump to other cab serrvices depending on the rates. 
-As the companies get bigger, the high churn could become abigger problem. To find new drivers, cab organizations are casting a wide net, including people who don’t have cars for jobs. But this acquisition is really costly.Losing drivers frequently impacts the morale of the organization and acquiring new drivers is more expensive than retaining existing ones.
+Recruiting and retaining drivers is seen by industry watchers as a tough battle for multiple cab organizations. Churn among drivers is high and it’s very easy for drivers to stop working for the service on the fly or jump to other cab services depending on the rates. As the companies get bigger, the high churn could became a bigger problem. To find new drivers, cab organizations are casting a wide net, including people who don’t have cars for jobs. But this acquisition is really costly.Losing drivers frequently impacts the morale of the organization and acquiring new drivers is more expensive than retaining existing ones.
 
 Problem Statement:
 
